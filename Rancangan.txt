@@ -1,0 +1,11 @@
+Menggunakan input dinamis
+
+Baris = 3
+kolom = 12
+
+proses :
+membuat fungsi tukar
+menggabungkan array2D menjadi array1D
+pengurutan secara ascending menggunakan loop dan memanggil fungsi tukar
+
+output menampilkan tabel yang telah diurutkan
